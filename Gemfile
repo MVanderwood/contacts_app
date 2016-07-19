@@ -10,6 +10,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'faker'
 gem 'pry-rails'
+gem 'bcrypt'
 
 gem 'sdoc', '~> 0.4.0', group: :doc
 
